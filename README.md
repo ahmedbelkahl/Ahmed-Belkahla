@@ -5,7 +5,7 @@
 
 - 🏢 I'm currently Web Developer .
 
-- 💬 Ask me about **ReactJs, Node js, , Docker, Linux**
+- 💬 Ask me about **ReactJs, Node js, Spring boot , Angular , Java , laravel , **
 
 - 🌱 Learning all about Web development and Cloud Computing 
 
