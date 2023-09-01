@@ -1,20 +1,19 @@
-# Ahmed-Belkahla
-A passioante Full Stack Software developer  having an experience of building Web and Mobile applications with JavaScrip / React js / Node Js / Flutter 
+
 
 <h1 align="center">Hi 👋, I'm Ahmed Belkahla</h1>
-<h3 align="center">Fullstack Web Developer From Tunisia</h3>
+<h3 align="center">A passioante Fullstack Web Developer From Tunisia having an experience of building Web and Mobile applications with JavaScrip / React js / Node Js / Flutter </h3>
 
-- 🏢 I'm currently Web Developer, System Administrator, Online Instructor and Content Creator.
+- 🏢 I'm currently Web Developer .
 
-- 💬 Ask me about **ReactJs, NextJs, NodeJs, NestJs, Docker, Jenkins, Nginx, Linux**
+- 💬 Ask me about **ReactJs, Node js, , Docker, Linux**
 
-- 🌱 Learning all about Web development and DevOps
+- 🌱 Learning all about Web development and Cloud Computing 
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/mansouri-youssef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansouri-youssef" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tensorcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tensorcode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/belkahla-ahmed-30066b1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed-Belkahla" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
